@@ -225,6 +225,7 @@
       "edgedriver",
       "geckodriver",
       "http-proxy",
+      "pump",
       "tsconfig-paths",
       "webdriver"
     ]
