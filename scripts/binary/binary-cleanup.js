@@ -55,6 +55,7 @@ const getDependencyPathsToKeep = async (buildAppDir) => {
     'node_modules/sprintf-js/src/sprintf.js',
     'node_modules/esutils/lib/utils.js',
     'node_modules/through/index.js',
+    'node_modules/string-width/index.js',
   ]
 
   let entryPoints = new Set([
